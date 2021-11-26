@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BikeBuddy</string>
+
+    <string name="api_key">AIzaSyBId94fwscxukNFX8QvPZO_mqE-NNyn0Xw</string>
+    <string name="enter_location">Enter Location</string>
+    <string name="auto_complete_text">Autocomplete textview with custom adapter.</string>
+    <string name="error">Google Api key is missing.</string>
+
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="Join Rides" />
+
+        <item
+            android:id="@+id/nav_my_rides"
+            android:icon="@drawable/myridesicon"
+            android:title="My Rides" />
+
+        <item
+            android:id="@+id/nav_new_ride"
+            android:icon="@drawable/ic_baseline_directions_bike_24"
+            android:title="Create New Ride" />
+
+        <item
+            android:id="@+id/nav_new_group"
+            android:icon="@drawable/groupicon"
+            android:title="Create New Group" />
+
+        <item
+            android:id="@+id/nav_group"
+            android:icon="@drawable/ridegroupsicon"
+            android:title="Groups" />
+
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_baseline_login_24"
+            android:title="Sign out" />
+    </group>
+</menu>

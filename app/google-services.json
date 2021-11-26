@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "89948296836",
+    "project_id": "bikebuddy-5b9bc",
+    "storage_bucket": "bikebuddy-5b9bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89948296836:android:19a163be5995dda6d7d4d1",
+        "android_client_info": {
+          "package_name": "com.techo.bikebuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89948296836-qecnu1hc0nt3gf80k9afanprqsc8a3hn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8qNbyL0nOncU7BnlP7RDQOH5tmKJZviI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89948296836-qecnu1hc0nt3gf80k9afanprqsc8a3hn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
