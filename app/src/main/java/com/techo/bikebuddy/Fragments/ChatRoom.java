@@ -43,7 +43,7 @@ public class ChatRoom extends BottomSheetDialogFragment {
     //the api for sending the nofication to the users
     final private String FCM_API = "https://fcm.googleapis.com/fcm/send";
     //the server key from the firebase
-    final private String serverKey = "key=" + "AAAAFPFWFoQ:APA91bH5OCzmwvZ5BIH1BxPNBQfgnZLuZ1Be0Q0eKSepILf2gR2QIu-yEcDk5gI1081d4Dh2Bl_cBitiQ6a3FAyjW_SQw7XCLCAt-37rM3usWIqUYQRvq9lFUezNjrrvnp-CQf8NfmNK";
+    final private String serverKey = "key=" + ".........BitiQ6a3FAyjW_SQw7XCLCAt-37rM3usWIqUYQRvq9lFUezNjrrvnp-CQf8NfmNK";
     final private String contentType = "application/json";
     final String TAG = "NOTIFICATION TAG";
 
